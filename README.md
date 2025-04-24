@@ -1,5 +1,5 @@
 # 🚧 Road Accident Analysis Dashboard  
-### *(Built with Microsoft Excel – Data-Driven Insights into India’s Road Safety)*
+### *(Built with Microsoft Excel)*
 
 ---
 
@@ -25,7 +25,6 @@ The dataset contains detailed road accident statistics across Indian states and 
 
 
 > *Click the image to enlarge or download the full resolution dashboard.*
-<img width="894" alt="ROAD ACCIDENT" src="https://github.com/user-attachments/assets/b47144c5-eb2f-4767-bd85-b5b44bc0b89e" />
 
 ---
 
